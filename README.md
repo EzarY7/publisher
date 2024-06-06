@@ -7,3 +7,5 @@ The publisher program will send 5 data messages to the message broker in one run
 <h3>The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber
 program, what does it mean?</h3>
 The URL amqp://guest:guest@localhost:5672 is used to connect to the message broker using the AMQP protocol. It is same as in the subscriber program. Both are connecting to the same message broker.
+
+<img src= "images/image1.jpg">
