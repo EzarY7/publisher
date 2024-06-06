@@ -15,3 +15,6 @@ The URL amqp://guest:guest@localhost:5672 is used to connect to the message brok
 <img src= "images/sub_cons.jpg">
 <img src= "images/pub_cons.jpg">
 <img src= "images/rabbit_cons.jpg">
+
+<h2>Monitoring chart based on publisher</h2>
+<img src= "images/spikes.jpg">
