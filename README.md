@@ -8,4 +8,10 @@ The publisher program will send 5 data messages to the message broker in one run
 program, what does it mean?</h3>
 The URL amqp://guest:guest@localhost:5672 is used to connect to the message broker using the AMQP protocol. It is same as in the subscriber program. Both are connecting to the same message broker.
 
+<h2>Running RabbitMQ as message broker</h2>
 <img src= "images/image1.jpg">
+
+<h2>Sending and processing event</h2>
+<img src= "images/sub_cons.jpg">
+<img src= "images/pub_cons.jpg">
+<img src= "images/rabbit_cons.jpg">
